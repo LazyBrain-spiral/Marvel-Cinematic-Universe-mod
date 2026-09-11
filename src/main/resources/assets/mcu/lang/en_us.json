@@ -1,13 +1,3 @@
 {
-  "itemGroup.mcu": "Example Mod Tab",
-  "block.mcu.example_block": "Example Block",
-  "item.mcu.example_item": "Example Item",
-
-  "mcu.configuration.title": "mcu Configs",
-  "mcu.configuration.section.mcu.common.toml": "mcu Configs",
-  "mcu.configuration.section.mcu.common.toml.title": "mcu Configs",
-  "mcu.configuration.items": "Item List",
-  "mcu.configuration.logDirtBlock": "Log Dirt Block",
-  "mcu.configuration.magicNumberIntroduction": "Magic Number Text",
-  "mcu.configuration.magicNumber": "Magic Number"
+  "item.mcu.mjolnir" : "Mjolnir"
 }
